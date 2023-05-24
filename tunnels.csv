@@ -1,0 +1,6 @@
+City,Netblock,Device
+Philadelphia,192.168.10.0/24,Meraki MX
+Chicago,192.168.20.0/24,ASA
+Springfield,192.168.30.0/24,Viptela vEdge
+Sacramento,192.168.40.0/24,other
+Portland,192.168.50.0/24,FTD
